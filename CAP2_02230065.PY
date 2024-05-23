@@ -1,3 +1,12 @@
+################################
+# Jigme Thinley
+# 1st year Electrical department
+# 02230065
+################################
+# REFERENCES
+# @https://chat.openai.com/
+# @https://www.blackbox.ai/
+
 import random #We import random module in order to generate random numbers for Accounts 
 import os #we import os module to interact with the operating system
 
